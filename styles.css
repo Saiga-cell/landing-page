@@ -1,0 +1,39 @@
+body {
+    background-color: #1f2937;
+    color: white;
+}
+
+.bigheader {
+    
+justify-self: center;
+}
+
+.header {
+ display: flex;
+ justify-content: space-between;
+ width: 1250px;
+}
+
+.headertwo {
+    display: flex;
+    justify-content: space-between;
+}
+.headerintro {
+    width: 550px;
+}
+h1 {
+    font-size: 48px;
+}
+.headerimage {
+    width: 550px;
+}
+#signup {
+    width: 105px;
+    height: 40px;
+    background-color: #3882F6;
+}
+ul {
+    list-style-type: none;
+    display: flex;
+    gap: 14px;
+}
